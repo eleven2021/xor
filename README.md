@@ -1,7 +1,7 @@
 # xor
 
 #########
-```
+`python`
 key = "password"
 src_text = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 print("src:" + src_text)
